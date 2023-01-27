@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.title{
+    background-image:linear-gradient(to bottom left,#860bce,#15dd79,#e2c853);
+    text-align: center;
+    padding: 1%;
+}
+.byc{
+    background-image: linear-gradient(to bottom right,#e2c853,#15dd79,#860bce);
+    padding: 3%;
+    
+}
+.lnm,.lpn,.lem,.ls,.lm,.lgd{
+    margin: 1%;
+    padding: 1%;
+    text-align: right;
+    
+}
